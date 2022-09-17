@@ -39,10 +39,9 @@ Plot the datas using Box Plot.
 # PROGRAM
 
 ```
-Developed by : VISHAL GOWTHAMAN K R
-Registration Number : 212221230123
-```
-```
+Developed by : GOPARAPU LUTHEESH
+Registration Number : 212221230029
+
 import pandas as ps
 import numpy as np
 import seaborn as sns
@@ -162,6 +161,4 @@ sns.boxplot(x='height',data=df4)
 The given datasets are read and outliers are detected and are removed using IQR and z-score methods.
 
 
-sns.boxplot(x='height',data=df4)
-```
 
