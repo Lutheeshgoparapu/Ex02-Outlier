@@ -1,6 +1,6 @@
 # Ex02-Outlier
 
-## AIM
+# AIM
 
 You are given bhp.csv which contains property prices in the city of banglore, India. You need to examine price_per_sqft column and do following,
 
@@ -17,19 +17,19 @@ You are given bhp.csv which contains property prices in the city of banglore, In
     (ii) Using IQR, detect height outliers and print them
 ## EXPLANATION
 An Outlier is an observation in a given dataset that lies far from the rest of the observations. That means an outlier is vastly larger or smaller than the remaining values in the set. An outlier is an observation of a data point that lies an abnormal distance from other values in a given population. (odd man out).Outliers badly affect mean and standard deviation of the dataset. These may statistically give erroneous results.Most machine learning algorithms do not work well in the presence of outlier. So it is desirable to detect and remove outliers.Outliers are highly useful in anomaly detection like fraud detection where the fraud transactions are very different from normal transactions.
-## ALGORITHM
-# STEP 1
+# ALGORITHM
+## STEP 1
 Read the given data
-# STEP 2
+## STEP 2
 Get  the information about the data
-# STEP 3
+## STEP 3
 Detectthe outliers using IQR method and Z score
-# STEP 4
+## STEP 4
 Remove the outliers
-# STEP 5
+## STEP 5
 Pot the datas using Box plot
 
-## PROGRAM
+# PROGRAM
 ```
 Developed by : VISHAL GOPARAPU LUTHEESH
 Registration Number : 212221230029
