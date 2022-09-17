@@ -126,6 +126,7 @@ sns.boxplot(x='height',data=df4)
 ![](./7.png)
 ### DATASET WITHOUT OUTLIERS(BHP)
 ![](./8.png)
+
 ![](./25.png)
 ### DATASET SHAPE WITHOUT OUTLIERS(BHP)
 ![](./26.png)
